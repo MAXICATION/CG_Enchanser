@@ -1,4 +1,4 @@
-# 📌 Script for Managing iframes on Coinglass 🎛️📊🖥️
+# 📌 Coinglass enchanser 🎛️📊🖥️
 
 ## 📖 Description 📝🔍💡
 
