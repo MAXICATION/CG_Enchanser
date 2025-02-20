@@ -63,8 +63,7 @@ This **UserScript** is designed for the [Coinglass](https://www.coinglass.com) w
 
 🖱️ **Click the link below to install the script in Tampermonkey:**
 
-📎 **[Install cg_enchanser](https://www.tampermonkey.net/script_installation.php#url=https://github.com/MAXICATION/cg_enchanser_/raw/refs/heads/main/cg_enchanser.js)**
-https://www.tampermonkey.net/script_installation.php#url=https://github.com/MAXICATION/CoinGlassButtons/raw/refs/heads/main/Buttons.user.js
+📎 **[Install cg_enchanser](https://www.tampermonkey.net/script_installation.php#url=https://github.com/MAXICATION/CG_enchanser/raw/refs/heads/main/CG_enchanser.user.js)**
 🌐 Open **[Coinglass](https://www.coinglass.com)**.
 
 ---
